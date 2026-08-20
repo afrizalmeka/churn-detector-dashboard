@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+riwayat_churn.db
+.venv/
+venv/
+.DS_Store
